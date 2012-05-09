@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+/*  
+Version: 1.0
+Author: ValdineiReis
+*/
+
+/*RESET*/
+a img,iframe{border:none}h1,h2,h3,h4,h5,h6{margin:0;padding:0;font-size:100%}form,fieldset,ul,ol,dl,li,dt,dd,body,p,blockquote{margin:0;padding:0}fieldset{border:1px solid #000}legend{padding:0;color:#000}input,textarea,select{margin:0;padding:1px;font-size:100%;font-family:inherit}select{padding:0}
+
+/*PAGINA*/
+body{background:#FFF url(../images/quadrado.jpg) 100% 50% repeat;text-align:center;font-size:12px;font-family:Verdana, Helvetica, sans-serif}#conteudo{text-align:left;left:50%; margin:-205px 0 0 -170px; position:absolute; top:50%;width:322px;height:390px;max-height:500px;background:#CCC url(../images/vsWeb.jpg) 100% 50% no-repeat;color:#FFF;border:5px solid #FF6500;padding:5px;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;-moz-box-shadow:0 0 5px #2C6288;-webkit-box-shadow:0 0 5px #2C6288;box-shadow:0 0 5px #2C6288}h2{font-size:20px;font-family:Georgia;padding:0;margin:0;color:#FF6500}span{font-size:11px;font-style:italic}a{color:#EBE350;font-weight:700}input,textarea{border:1px solid #FF6500;padding:2px}textarea{width:322px;height:68px;color:#888}input[type="submit"]{cursor:pointer}input[type="submit"]:hover{background-color:#FFF}blockquote{padding:5px}form div{margin-top:2px}
